@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Alvin 👋
 
-<!--
-**A1vin-J/A1vin-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### C Programmer | Aspiring Embedded Software Engineer
 
-Here are some ideas to get you started:
+I work primarily in **C**, building non-trivial command-line projects that
+involve data structures, file handling, and low-level program design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently developing embedded systems skills through hands-on projects
+and simulation-based learning, with interests in:
+- Firmware development
+- Systems programming
+- OS internals
+
+📌 **Pinned repositories below showcase my major projects**, including:
+- Inverted Search Engine
+- Arbitrary Precision Calculator
+- MP3 Tag Reader & Editor
+
+🔗 **Portfolio:** https://a1vin-j.github.io
